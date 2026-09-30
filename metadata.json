@@ -1,0 +1,7 @@
+{
+  "name": "NetNMS - ISP & FTTH Manager",
+  "description": "Sistem manajemen pelanggan ISP & FTTH terintegrasi API MikroTik, GenieACS TR-069, serta visual Map Editor persebaran perangkat berbasis Google Maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
